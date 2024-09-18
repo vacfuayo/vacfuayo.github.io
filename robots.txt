@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://vacfuayo.github.io/sitemap/sitemap.txt
